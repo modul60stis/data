@@ -10,6 +10,6 @@ Three time series tables are for the global confirmed cases, recovered cases and
 Data di repository ini hanya data time series sampai tanggal 24 Desember 2020. Untuk data real time silahkan langsung ambil 
 dari repository aslinya disini [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.instagram.com/stis60/) 
 
 *-- TIm Modul 60*
