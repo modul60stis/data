@@ -6,6 +6,6 @@ Repository ini akan berisi data yang diperlukan pada beberapa matkul/modul. Untu
 3. Setelah halaman raw terbuka silahkan klik kanan dan pilih `Simpan sebagai...`
 
 ##
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.instagram.com/stis60/) 
 
 *-- TIm Modul 60*
